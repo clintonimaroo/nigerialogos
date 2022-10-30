@@ -92,6 +92,12 @@
 	},
 	{
 		"title": "Aso Savings",
+		"filename": "smartklas",
+		"url": "http://www.mysmartklas.com/",
+		"category": ["EdTech", "EdTech"]
+	},
+	{
+		"title": "SmartKlas",
 		"filename": "aso_savings_loans",
 		"url": "http://www.asoplc.com/",
 		"category": ["Banking", "Financial Services"]
